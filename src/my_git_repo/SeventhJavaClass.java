@@ -1,10 +1,10 @@
-package my_git_repo01;
+package my_git_repo;
 
-public class JavaClass02 {
+public class SeventhJavaClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("hello");
+
 	}
 
 }

@@ -1,6 +1,6 @@
-package my_git_repo01;
+package my_git_repo;
 
-public class JavaClass01 {
+public class FifthJavaClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
